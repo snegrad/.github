@@ -1,4 +1,4 @@
-## Hi there 👋
+## Sneg & grad in the *grad 👋
 
 <!--
 
