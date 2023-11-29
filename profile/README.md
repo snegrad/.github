@@ -1,7 +1,8 @@
 ## Sneg & grad in the *grad 
 
-# Projects:
-[Telegram Media](https://github.com/snegrad/tgm)
+### Projects:
+### [Telegram Media Web](https://github.com/snegrad/tgm-web)
+### [Telegram Media Desktop](https://github.com/snegrad/tgm-desktop)
 
 <!--
 
